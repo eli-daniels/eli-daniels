@@ -1,7 +1,7 @@
 
 Hi, I'm Eli and welcome to my github. I spend a lot of time here, although most of my projects are not public.
 
-I'm a data scientist working at @ardata-fr on public statistics and multi-omics projects. I love to get my hands on the tools that power data driven decision making whether its clinical or policy. A lot of my work consists in : 
+I'm a data scientist working at @ardata-fr on public statistics and clinical pharma projects. I love to get my hands on the tools that power data driven decision making whether its clinical or policy. A lot of my work consists in : 
  - Web application development
  - R package development
  - Building statistical pipeline
